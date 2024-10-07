@@ -1,0 +1,3 @@
+C:\Users\Son\source\repos\AngularApp2\angularapp2.client\obj\Debug\angularapp2.client.esproj.CoreCompileInputs.cache
+C:\Users\Hoang Hai\source\repos\AngularApp2\angularapp2.client\obj\Debug\angularapp2.client.esproj.CoreCompileInputs.cache
+C:\Users\Son\Desktop\AngularApp2\angularapp2.client\obj\Debug\angularapp2.client.esproj.CoreCompileInputs.cache
